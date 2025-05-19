@@ -5,7 +5,7 @@ Base de imagens contendo 10 classes de frutas, com:
 - 2 ângulos de visão (V1, V2)
 - 2 fundos diferentes (B: preto, W: branco)
 - 5 itens por classe
-- Imagens no formato PNG (300x300 pixels)
+- Imagens no formato PNG (900x1600 pixels)
 
 ## Convenção de Nomes
 <CLASSID>-<IMG_SEQUENCE>-V1|V2-B|W.png
