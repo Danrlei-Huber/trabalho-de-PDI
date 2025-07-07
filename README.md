@@ -21,4 +21,4 @@ Mosaico do dataset aumentado. As transformações (quando espaciais) foram aplic
 
 Exemplo de uma imagem com histograma equalizado:
 
-![image](https://github.com/user-attachments/assets/e59b9b92-e913-43d7-8e22-100b480599a1)
+![image](https://github.com/user-attachments/assets/1f392fc8-aa06-47d6-9a01-e28a79dd42a7)
