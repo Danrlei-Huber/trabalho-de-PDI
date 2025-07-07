@@ -11,8 +11,6 @@ O diretório [ft-DB](ft-DB) possui os dados crús nas dimensões originais com s
 - **normalize-dataset**: processo para equalização de histograma do dataset.
 
 
-
-![Dataset aumentado](./augumented_imgs.png)
 =======
 ## Imagens
 
